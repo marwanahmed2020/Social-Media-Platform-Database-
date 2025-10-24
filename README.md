@@ -56,8 +56,8 @@ The database is normalized to **3NF** to reduce redundancy, ensure data consiste
 
 ## Tools & Technologies
 - **DBMS**: Microsoft SQL Server  
-- **Design Tools**: Microsoft Word, Visio, EDraw Max  
-- **Documentation**: Markdown  
+- **Design Tools**: Microsoft Word, Lucidchart
+- **Documentation**: Word 
 
 ---
 
